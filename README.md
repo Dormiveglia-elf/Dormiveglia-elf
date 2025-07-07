@@ -1,11 +1,11 @@
-<h2 align="left">Passion!</h2>
+<h2 align="center">Passion!</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dormiveglia-elf&theme=tokyonight" width="100%" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dormiveglia-elf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Dormiveglia-elf&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true" height="150" alt="languages graph"  />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Dormiveglia-elf&limit=5&card_width=320&theme=one_dark_pro&combine_all_yearly_contributions=true" height="150" alt="languages graph"  />
 </div>
 
 <!--
