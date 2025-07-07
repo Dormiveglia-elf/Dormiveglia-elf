@@ -8,6 +8,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Dormiveglia-elf&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true" height="150" alt="languages graph"  />
 </div>
 
+<!--
 ###
 
 <div align="center">
@@ -30,8 +31,6 @@
 
 
 ###
-
-<!--
 **Dormiveglia-elf/Dormiveglia-elf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
